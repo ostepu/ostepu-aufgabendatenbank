@@ -1,0 +1,7 @@
+{
+    "main": {
+        "title": "Aufgabendatenbank",
+        "description": "Dieser Bereich gehört zum Aufgabendatenbank-Modul. Sie können hier das Passwort festlegen, welches Sie dann bei der Aufgabendatenbank eintragen müssen, sodass sie die benötigten internen Komponenten zugreifen kann. Dabei wird die Aufgabendatenbank die Komponenten xyz, xyz, xyz und xyz verwenden.",
+        "setPasswd": "Passwort"
+    }
+}
