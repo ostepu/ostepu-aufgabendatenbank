@@ -2,7 +2,7 @@
 
 Die Installation der Aufgabendatenbank erfolgt über die Einbindung in den Installationsassistenten von OSTEPU.
 
-![A: Paket installieren](images/B.png)
+![A: Paket installieren](images/B.PNG)
 
 *A: Paket installieren*
 
@@ -14,13 +14,13 @@ Für die Anbindung an OSTEPU wird zunächst das Paket der Aufgabendatenbank in d
 
 Die Komponenteninstallation muss erneut ausgeführt werden (Abbildung B)
 
-![C: Paket installieren](images/C.png)
+![C: Paket installieren](images/C.PNG)
 
 *C: die Aufgabendatenbank konfigurieren*
 
 Damit die Aufgabendatenbank auf die Komponenten von OSTEPU zugreifen kann, muss der Zugang konfiguriert werden. Dabei wird der Aufgabendatenbank mittels einer HTTP-Authentifizierung der Zugang ermöglicht. Das Passwort muss dazu wie in Abbildung C festgelegt werden bei der Aufgabendatenbank hinterlegt werden.
 
-![D: die Aufgabendatenbank mit OSTEPU verbinden](images/A.png)
+![D: die Aufgabendatenbank mit OSTEPU verbinden](images/A.PNG)
 
 *D: die Aufgabendatenbank mit OSTEPU verbinden*
 
