@@ -81,13 +81,13 @@ class Aufgabendatenbank {
         $myProfile->addRule(GateRule::createGateRule(null,
                                                      'httpCall',
                                                      'LExerciseSheet',
-                                                     'GET /exercisesheet/exercisesheet/:sheetid',
+                                                     'GET /exercisesheet/exercisesheet/:sheetid/(:exercise)',
                                                      null));
                                                      
         $myProfile->addRule(GateRule::createGateRule(null,
                                                      'httpCall',
                                                      'LExerciseSheet',
-                                                     'GET /exercisesheet/course/:courseid',
+                                                     'GET /exercisesheet/course/:courseid/(:exercise)',
                                                      null));
                                                      
         $myProfile->addRule(GateRule::createGateRule(null,
